@@ -2,6 +2,8 @@
 
 // todo - add db context for mongodb, add appropriate rest calls to api
 
+// todo - add logging
+
 // Inject swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
